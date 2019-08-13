@@ -15,7 +15,7 @@
 - [Export des langues au format JSON](https://github.com/kkomelin/laravel-translatable-string-exporter)
 - [Export JS pour les fichiers VUE](https://github.com/martinlindhe/laravel-vue-i18n-generator)
 
-## REST
+## REST - HATEOAS
 
 - [Non, votre API n'est pas REST !](https://www.maxpou.fr/rest-rmm-model)
 - [Richardson Maturity Model](https://martinfowler.com/articles/richardsonMaturityModel.html)
