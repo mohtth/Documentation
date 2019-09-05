@@ -15,6 +15,10 @@
 - [Export des langues au format JSON](https://github.com/kkomelin/laravel-translatable-string-exporter)
 - [Export JS pour les fichiers VUE](https://github.com/martinlindhe/laravel-vue-i18n-generator)
 
+## Relationships and Polymorphism
+- [Laravel Eloquent : Relationships Documentation](https://laravel.com/docs/5.8/eloquent-relationships)
+- [Laravel One To One Eloquent Relationship Tutorial](https://itsolutionstuff.com/post/laravel-one-to-one-eloquent-relationship-tutorialexample.html)
+
 ## REST - HATEOAS
 
 - [Non, votre API n'est pas REST !](https://www.maxpou.fr/rest-rmm-model)
